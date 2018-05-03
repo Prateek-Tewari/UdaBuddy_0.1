@@ -1,0 +1,9 @@
+.ex2 {
+  padding: 1.5vw 1.5vh 1.5vw 1.5vh;
+  margin: 2vw 1.5vh 2vw 1.5vh;
+}
+.boxWidth {
+  width: 50%;
+}
+/*padding dal do 1.5vw 1.5vh and margin too 2 vw,  1.5 vh same effect mil jayega
+to three divs*/
